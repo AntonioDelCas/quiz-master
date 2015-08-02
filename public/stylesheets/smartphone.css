@@ -1,0 +1,24 @@
+body {
+	background:#333; 
+}
+#page-wrap:after {
+	content:"Smartphone Layout";
+}
+h2 span, section h3, label.rem {
+	display:none;
+}
+#ErrorMsgs {
+	{color: #f61; font-size: smaler}
+}
+body {
+	font-size:xx-large;
+}
+footer , input, button {
+	font-size:large;
+}
+.author {
+	font-size:medium;
+	}
+.about {
+	font-size:medium;
+	}
